@@ -28,3 +28,30 @@ Team members: 
  
  
 In this project, user can tweet about his interest in vivid categories like music, food, technology, jobs, summits, sports, etc. Moreover, users can converse based on the likes of their category interest.  This typical interest matching is based on categories which is the marketing and promotion of the sociable feature that can be tweeted here.
+
+
+--------------------------------------------------------------------------------------------------------------
+
+Follow below steps to run the twitter Scrapping bot
+
+Prerequiste :
+
+Below software shall be installed
+
+MySQL
+Anaconda --> It shall have Jupyter Notebook
+Steps : (After having the Prerequiste installed)
+
+Clone repository. Use below https link https://github.com/HarshilaJagtap/Jagtap_Harshila_002743674_DMDD.git
+
+Launch Anaconda
+
+Open Jupyter Notebook
+
+Import DMDD_Socialize_Twitter.ipynb
+
+Run every step and check the output
+
+Once all steps are executed from the file, launch MySQL
+
+Using MySql select statements check the data that was imported from twitter and stored in respective tables.
