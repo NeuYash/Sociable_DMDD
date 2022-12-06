@@ -6,7 +6,7 @@ Team members: 
 
    NUID : 002743674
    
-   https://github.com/HarshilaJagtap/Jagtap_Harshila_002743674_DMDD/edit/main/DMDD_Assignment_3/README.md
+https://github.com/HarshilaJagtap/Jagtap_Harshila_002743674_DMDD/tree/main/DMDD_Assignment_3
 
 2. Yash Pawar
 
