@@ -34,7 +34,7 @@ Language Used : Python 3
 
 #Steps : (After having the Prerequiste installed)
 
-Clone repository. Use below https link https://github.com/HarshilaJagtap/Jagtap_Harshila_002743674_DMDD.git
+Clone repository. Use below https link https://github.com/NeuYash/Sociable_DMDD.git
 
 Launch Anaconda
 
