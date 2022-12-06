@@ -14,7 +14,7 @@ Team members: 
    NUID : 002747371
    
    
-   https://github.com/NeuYash/Sociable_DMDD
+   https://github.com/NeuYash/Sociable_DMDD/tree/main/DMDD_Assignment_3
    
    
    
